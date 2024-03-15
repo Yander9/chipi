@@ -14,5 +14,3 @@ include_directories("inc")
 # Сказать программе, что должен быть исполняемый файл
 add_executable("${PROJECT_NAME}" main.cpp )  
 
-# Копирование файла
-file(COPY "input.txt" DESTINATION "/")
