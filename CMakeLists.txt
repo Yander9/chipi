@@ -14,3 +14,4 @@ include_directories("inc")
 # Сказать программе, что должен быть исполняемый файл
 add_executable("${PROJECT_NAME}" main.cpp )  
 
+-DCMAKE_VERBOSE_MAKEFILE=ON
