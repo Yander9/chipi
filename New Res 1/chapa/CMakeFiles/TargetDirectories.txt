@@ -1,0 +1,3 @@
+C:/Build4/chapa/CMakeFiles/example.dir
+C:/Build4/chapa/CMakeFiles/ALL_BUILD.dir
+C:/Build4/chapa/CMakeFiles/ZERO_CHECK.dir
