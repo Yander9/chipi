@@ -2,7 +2,7 @@
 #include <fstream>
 int main()
 {
-    int y;
+    
     setlocale(LC_ALL, "RUS");
     using namespace std;
     float r;
